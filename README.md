@@ -177,3 +177,4 @@ Experienced an issue or want to report a bug? Please, [report it here](https://g
 ## :trophy: Credits
 Thanks to the authors of Paystack [iOS](https://github.com/PaystackHQ/paystack-ios) and [Android](https://github.com/PaystackHQ/paystack-android) SDKS. I leveraged on their work to bring this plugin to fruition.
 
+# flutter_paystack
